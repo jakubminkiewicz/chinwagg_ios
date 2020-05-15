@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>896067167000-0nnnvbonps74of6mvr8rf4f2eskpdg3a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.896067167000-0nnnvbonps74of6mvr8rf4f2eskpdg3a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBupFrVnn4wMXX7GmNuCvAu4Efy7Q19qIU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>896067167000</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>uk.chinwagg.chinwaggapp</string>
+	<key>PROJECT_ID</key>
+	<string>chinwagguk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chinwagguk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:896067167000:ios:43df90189f28689a90f46d</string>
+	<key>DATABASE_URL</key>
+	<string>https://chinwagguk.firebaseio.com</string>
+</dict>
+</plist>
